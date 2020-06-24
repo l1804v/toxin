@@ -3,6 +3,7 @@ module.exports = {
       require('autoprefixer'),
       require('cssnano'),
       require('postcss-nested'),
-      require('postcss-media-minmax')
+      require('postcss-media-minmax'),
+      require('postcss-import')
     ]
   }
