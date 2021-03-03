@@ -27,6 +27,6 @@
     "postcss-nested": "^4.2.1"
   },
   "devDependencies": {
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   }
 }
